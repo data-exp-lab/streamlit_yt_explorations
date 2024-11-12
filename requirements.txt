@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+yt[enzo]
+pooch
+pandas
+numpy
