@@ -4,3 +4,4 @@ yt[enzo]
 pooch
 pandas
 numpy
+mpld3
